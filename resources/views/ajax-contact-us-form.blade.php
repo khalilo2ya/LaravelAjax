@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Laravel 9 Ajax Form Submit using jQuery Validation - Tutsmake.com</title>
+    <title>Laravel 8 Ajax Form Submit using jQuery Validation and sweetalert2</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
@@ -18,7 +18,7 @@
     <div class="container mt-4">
         <div class="card">
             <div class="card-header text-center font-weight-bold">
-                <h2>Laravel 9 Ajax Post Form Data on Controller with jQuery Validation Example - Tutsmake.com</h2>
+                <h2>Laravel 8 Ajax Form Submit using jQuery Validation and sweetalert2</h2>
             </div>
             <div class="card-body">
                 <form name="contactUsForm" enctype="multipart/form-data" id="contactUsForm" method="post" action="javascript:void(0)">
